@@ -1,0 +1,5 @@
+{
+  "name": "Sistema di ventilazione",
+  "description": "An interactive didactic simulator for ventilation failure scenarios in a confined space. It features a dual-panel interface for a trainer and a trainee, operating on a shared, real-time in-memory state.",
+  "requestFramePermissions": []
+}
